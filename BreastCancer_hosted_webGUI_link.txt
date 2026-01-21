@@ -8,4 +8,4 @@ Model persistence method used : HDF5 format (Hierarchical Data Format)
 
 Live URL of the hosted application: https://breast-cancer-ann-web-app-4.onrender.com/
 
-GitHub repository link : https://github.com/Urielthebane/Breast-Cancer-ANN-Web-App
+GitHub repository link : https://github.com/Urielthebane/BreastCancer_Project_Akinmusire-Oluwankorinola_250000512
